@@ -1,0 +1,4 @@
+Event     Company-Symbol      Number    Price     Totalvalue     Time      
+Buy       AAPL                1         $199.92   $199.92        09:34:54  
+Buy       AAPL                1         $197.92   $197.92        10:06:30  
+Buy       AAPL                1         $199.92   $199.92        10:08:36  

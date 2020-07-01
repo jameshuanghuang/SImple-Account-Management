@@ -1,0 +1,2 @@
+CompanySymbol       Number    Price-per-share     Totalvalue
+AAPL                3         199.92              599.76              

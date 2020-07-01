@@ -1,0 +1,4 @@
+Event               Amount              Date                Balance             
+Withdrawal          $210.00             07/01/20            9790.00             
+Withdrawal          $197.92             07/01/20            9592.08             
+Withdrawal          $199.92             07/01/20            9392.16             
